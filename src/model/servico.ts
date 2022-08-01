@@ -1,0 +1,5 @@
+interface Servico {
+
+}
+
+export { Servico }
